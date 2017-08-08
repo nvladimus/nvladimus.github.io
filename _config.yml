@@ -1,2 +1,3 @@
 name: Microscopy and programming
 markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
