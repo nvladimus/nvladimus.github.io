@@ -1,3 +1,9 @@
+---
+layout: post
+title: "Spherical aberrations "
+date: 2017-08-11
+---
+
 
 # A demo of spherical aberrations 
 ## introduced by coverslip and refractive index mismatch 
@@ -112,7 +118,7 @@ ax[-1,-1].set_xlabel('microns')
 
 
 
-![png](coverslip_spherical_aberration_rayTracing_files/coverslip_spherical_aberration_rayTracing_6_2.png)
+![png](/ipynb/coverslip_spherical_aberration_rayTracing_files/coverslip_spherical_aberration_rayTracing_6_2.png)
 
 
 ### Find the axial points where rays seem to come from (apparent sources) and plot them
@@ -173,7 +179,7 @@ ax[0,0].legend(loc='lower left')
 
 
 
-![png](coverslip_spherical_aberration_rayTracing_files/coverslip_spherical_aberration_rayTracing_8_2.png)
+![png](/ipynb/coverslip_spherical_aberration_rayTracing_files/coverslip_spherical_aberration_rayTracing_8_2.png)
 
 
 ### Plot the positions of true and apparent sources
@@ -231,7 +237,7 @@ ax[0].text(1.5,-20,'sample')
 
 
 
-![png](coverslip_spherical_aberration_rayTracing_files/coverslip_spherical_aberration_rayTracing_10_2.png)
+![png](/ipynb/coverslip_spherical_aberration_rayTracing_files/coverslip_spherical_aberration_rayTracing_10_2.png)
 
 
 
@@ -330,7 +336,7 @@ ax[0].text(1.5,-30,'NA='+'{:3.2f}'.format(NA))
 
 
 
-![png](coverslip_spherical_aberration_rayTracing_files/coverslip_spherical_aberration_rayTracing_15_2.png)
+![png](/ipynb/coverslip_spherical_aberration_rayTracing_files/coverslip_spherical_aberration_rayTracing_15_2.png)
 
 
 ### Plot spherical aberrations of AQUEOUS sample as a function of sample thickness (distance from coverslip)
@@ -371,7 +377,7 @@ ax[2].set_ylim([-60, 60])
 
 
 
-![png](coverslip_spherical_aberration_rayTracing_files/coverslip_spherical_aberration_rayTracing_17_1.png)
+![png](/ipynb/coverslip_spherical_aberration_rayTracing_files/coverslip_spherical_aberration_rayTracing_17_1.png)
 
 
 ### Plot spherical aberrations of FIXED sample (mounted in ProLong Gold, n=1.47) as a function of sample thickness (distance from coverslip)
@@ -414,7 +420,7 @@ ax[2].set_ylim([-10, 10])
 
 
 
-![png](coverslip_spherical_aberration_rayTracing_files/coverslip_spherical_aberration_rayTracing_19_1.png)
+![png](/ipynb/coverslip_spherical_aberration_rayTracing_files/coverslip_spherical_aberration_rayTracing_19_1.png)
 
 
 ## Summary
