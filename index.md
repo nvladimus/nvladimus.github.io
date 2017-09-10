@@ -1,5 +1,9 @@
 ---
 layout: default
-title: Microscopy and programming
+title: A random walk in science
 ---
-Thinking about the content at the moment...
+This is a collection of my projects, interests, and observations described in a human-friendly way, as opposed to the dry 'objective' language of journal articles. I am driven by curiosity from one scientific field to another, but there is always personal or scientific connection between them:
+* Bacterial chemotaxis
+* Computational neuroscience
+* Light-sheet microscopy and brain imaging
+* Adaptive optics
