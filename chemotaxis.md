@@ -8,7 +8,7 @@ which could follow a freely swimming *E.coli* cell in 3D in real time. It allowe
 in spatial and temporal gradients of chemicals, which led to discovery that *E.coli* performs a biased random walk, with longer runs toward increasing concentrations of attractive chemicals [(Berg and Brown, 1972; PDF)](pdf/1972Berg-Brown.pdf "Berg HC and Brown DA. Chemotaxis in Escherichia coli analysed by three-dimensional tracking. Nature, 1972"). This work laid the foundation of quantitative approach to *E.coli* chemotaxis, which led to multiple breakthroughs on it's biochemical and physical mechanisms.  
 
 Even today in 2017, building a tracking microscope which keeps rapidly swimming bacterium in focus is not an easy task. 
-The system must keep track of cell position in 3D within very small depth of field (due to high magnification) and accurately update servo positions with at least 50 Hz frequency (20 ms intervals). Fast CMOS cameras, real-time operating system, LabView, FPGA, and C/C++ were unknown words in the late 1960-s. Computers were using punch cards and magnetic tapes. 
+The system must keep track of cell position in 3D within very small depth of field (20X magnification) and accurately update servo positions with at least 50 Hz frequency (20 ms intervals). Fast CMOS cameras, real-time operating system, LabView, FPGA, and C/C++ were unknown words in the late 1960-s. Computers were using punch cards and magnetic tapes. 
 
 ![](images/1971Berg_Fig1.png)
 
