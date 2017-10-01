@@ -3,7 +3,7 @@ Chemotaxis in bacteria is a molecular mechanism by which they sense chemicals an
 It has been studied extensively since late 60-s and became a triumph of quantitative system biology, 
 thanks to giants like Julius Adler, Howard Berg, Daniel Koshland, to name a few. 
 
-Perhaps the most instrumental in this revolution was Howard Berg's [tracking microscope](/pdf/1971Berg(How to track bacteria).pdf "Berg HC. How to track bacteria. Rev Sci Instrum. 1971 Jun;42(6):868-71."), 
+Perhaps the most instrumental in this revolution was Howard Berg's [tracking microscope](pdf/1971Berg.pdf "Berg HC. How to track bacteria. Rev Sci Instrum. 1971, PDF."), 
 which could track freely swimming *E.coli* cells in 3D. It allowed precize quantification of cell swimming trajectories 
 in spatial gradients of chemicals and discovering that *E.coli* runs longer toward increasing concentrations of chemicals which attract her,
 and tumble more frequntly when encountering lower concentration of attractant.
