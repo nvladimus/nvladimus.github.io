@@ -16,11 +16,11 @@ tracking microscope using optic fibers, photomultipliers, off-the-shelf analog e
 and electomagnetic coils on top of a Nikon upright microscope, at a cost below $10K (equivalent of ~60K in 2017). 
 The tracking data were stored using an oscilloscope or magnetic tapes.
 
-![](images/1971Berg_Fig1)
+![](images/1971Berg_Fig1.png)
 
 The principle of tracking H.Berg proposed is simple and elegant. An image of bacterium (dark-field) is relayed onto 3 pairs of photomultipliers, `x1, x2, y1, y2, z1, z2`. Displacement of the bacterium in `+x` direction stimulates `x1`, so the difference between x-photomulipliers `x1-x2` is amplified and fed into the electromechanical transducer (electromagnetic drive coil) which moves the chamber with bacteria. This feedback loop returns the bacteria back to the center of visual field. In `z` direction, when bacteria swims up, it's image becomes more focused on photomultiplier `z1`, the difference `z1-z2` is amplified and fed into analogous electromechanical transducer for `z` axis. If bacteria swims beyond the range of the drive coils, the microscope automatically returns to the center position and waits for another bacteria to swim by to start a new tracking. 
 
-![](images/1971Berg_Fig2)
+![](images/1971Berg_Fig2.png)
 
 *The scene through the binocular is extraordinary. The
 bacterium being tracked seems to be stuck to the center
