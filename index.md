@@ -9,7 +9,7 @@ Given the limitations of my own mind, I can only hope to understand some process
 
 I am driven by curiosity from one scientific field to another, but there is always personal or scientific connection between them. They include:
 
-[Bacterial chemotaxis and the first `smart microscope` (Berg, 1971)](/chemotaxis)
+[Bacterial chemotaxis and the first `smart microscope` (Berg, 1971)](chemotaxis)
 * Computational neuroscience
 * Light-sheet microscopy and brain imaging
 * Adaptive optics
