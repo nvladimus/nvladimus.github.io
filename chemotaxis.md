@@ -3,10 +3,9 @@ Chemotaxis in bacteria is a molecular mechanism by which they sense chemicals an
 It has been studied extensively since late 60-s and became a triumph of quantitative system biology, 
 thanks to giants like Julius Adler, Howard Berg, Daniel Koshland, to name a few. 
 
-Perhaps the most instrumental in this revolution was Howard Berg's [tracking microscope](pdf/1971Berg.pdf "Berg HC. How to track bacteria. Rev Sci Instrum. 1971, PDF."), 
+Perhaps the most instrumental in this revolution was Howard Berg's tracking microscope [(Berg 1971; PDF)](pdf/1971Berg.pdf "Berg HC. How to track bacteria. Rev Sci Instrum. 1971."), 
 which could track freely swimming *E.coli* cells in 3D. It allowed precize quantification of cell swimming trajectories 
-in spatial gradients of chemicals and discovering that *E.coli* runs longer toward increasing concentrations of chemicals which attract her,
-and tumble more frequntly when encountering lower concentration of attractant.
+in spatial gradients of chemicals and discovering that *E.coli* performs a biased random walk, with longer runs toward increasing concentrations of attractive chemicals and more frequent tumbles when encountering lower concentrations of attractant [(Berg and Brown, 1972; PDF)](pdf/1972Berg-Brown.pdf "Berg HC and Brown DA. Chemotaxis in Escherichia coli analysed by three-dimensional tracking. Nature, 1972").
 
 Even today in 2017, building a tracking microscope which keeps rapidly swimming bacterium in focus is not an easy task. 
 The system must keep track of cell position in 3D within very small depth or field (high magnification) and accurately update servo positions with at least 50 Hz frequency (20 ms intervals). Fast CMOS cameras, real-time operating system, LabView, FPGA, and C/C++ were
