@@ -13,6 +13,7 @@ This site is about scientific tools and ideas which influenced me the most.
 [Bacterial chemotaxis and the first smart microscope (Berg, 1971)](chemotaxis)
 
 [FRET measurements and multiscale modeling of E.coli chemotaxis](chemotaxis_multiscale)
-* Computational neuroscience
+
+[From chemotaxis to neuroscience](chemo_neuro)
 * Light-sheet microscopy and brain imaging
 * Adaptive optics
